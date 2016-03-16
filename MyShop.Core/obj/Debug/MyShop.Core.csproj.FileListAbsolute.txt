@@ -1,0 +1,5 @@
+C:\Users\Epic\Downloads\Tutoring\MyShop.Web\MyShop.Core\bin\Debug\MyShop.Core.dll
+C:\Users\Epic\Downloads\Tutoring\MyShop.Web\MyShop.Core\bin\Debug\MyShop.Core.pdb
+C:\Users\Epic\Downloads\Tutoring\MyShop.Web\MyShop.Core\obj\Debug\MyShop.Core.csprojResolveAssemblyReference.cache
+C:\Users\Epic\Downloads\Tutoring\MyShop.Web\MyShop.Core\obj\Debug\MyShop.Core.dll
+C:\Users\Epic\Downloads\Tutoring\MyShop.Web\MyShop.Core\obj\Debug\MyShop.Core.pdb
